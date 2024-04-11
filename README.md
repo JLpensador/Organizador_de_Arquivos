@@ -1,1 +1,3 @@
 Um programa de automação desenvolvido em Python, destinado à organização de arquivos de naturezas diversas, apresenta uma solução eficiente para a gestão e ordenação de dados em sistemas computacionais. Ao utilizar esta ferramenta, é possível promover a estruturação e a categorização sistemática de arquivos, contribuindo para a otimização de processos e a facilitação do acesso a informações relevantes. Este programa oferece uma abordagem robusta e flexível, adaptável às necessidades específicas de cada contexto de uso, e representa uma ferramenta valiosa para aprimorar a eficiência e a organização no âmbito da gestão de dados.
+<br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
